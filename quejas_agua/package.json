@@ -1,0 +1,11 @@
+{
+  "name": "quejas_agua",
+  "version": "1.0.0",
+  "description": "\"Este es un Prueba pilot\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run srve"
+  },
+  "author": "Paola",
+  "license": "ISC"
+}
